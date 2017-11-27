@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
 /**
  * 有{@link com.wangzhixuan.commons.annotation.DataSourceChange}注解的方法，调用时会切换到指定的数据源
  *
- * @author tanghd
+ * @author gzliudong
  */
 @Aspect
 @Component
